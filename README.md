@@ -3,7 +3,7 @@
 <h2>👨‍💻 Ethical Hacking Writeups (via TryHackMe):</h2>
 
 - <b>How AI-Generated Code Could Give an Attacker Full Control of a Business Server</b>
-  - [Praciting DS & Algos in Python](https://github.com/JanC03/JPGChat-TryHackMe)
+  - [JPGChat](https://github.com/JanC03/JPGChat-TryHackMe)
 - <b>How AI-Generated Code Could Give an Attacker Full Control of a Business Server</b>
   - [Praciting DS & Algos in Python](https://github.com/JanC03/JPGChat-TryHackMe)
 
