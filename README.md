@@ -1,5 +1,6 @@
-<h1>Hi, I'm Jan!<br/>
-Cyber Security Professional specialising in WordPress vulnerability assessments and penetration testing for small businesses and online retailers. I help business owners find and fix security gaps before someone else does. Documenting my methodology and learning journey here.
+<h1>Hi, I'm Jan!
+<br/>
+Cyber Security Professional specialising in pen testing. Documenting my methodology and learning journey here.
 
 <h2>👨‍💻 Ethical Hacking Writeups (via TryHackMe):</h2>
 
